@@ -1,14 +1,14 @@
 # MFS2017-2-MarkSeverIano
 
-Projeto Mark Sever Iano
+## Projeto Mark Sever Iano
 
-Métodos e Ferramentas de Engenharia de Software 2017/2
+### Métodos e Ferramentas de Engenharia de Software 2017/2
 
 
-HYAGO VIEIRA DE SOUZA
+- HYAGO VIEIRA DE SOUZA
 
-MATHEUS VILACHÃ FERREIRA PIRES
+- MATHEUS VILACHÃ FERREIRA PIRES
 
-VALQUER DINIZ NOVAES
+- VALQUER DINIZ NOVAES
 
-HIGOR ANDRÉ QUINTÃO
+- HIGOR ANDRÉ QUINTÃO
