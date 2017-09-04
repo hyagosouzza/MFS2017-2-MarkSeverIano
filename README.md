@@ -3,9 +3,9 @@
 ### Métodos e Ferramentas de Engenharia de Software 2017/2
 
 **Professor:**
-> Otávio Calaça
+- Otávio Calaça
 
-> INF-UFG
+- INF-UFG
 
 
 **Alunos:**
