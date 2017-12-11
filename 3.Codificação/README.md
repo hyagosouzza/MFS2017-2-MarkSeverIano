@@ -1,4 +1,4 @@
-# Projeto Mark Sever Iano
+# Projeto MarkSeverIano
 
 ### Métodos e Ferramentas de Engenharia de Software 2017/2
 
